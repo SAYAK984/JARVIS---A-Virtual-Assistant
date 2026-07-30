@@ -1,0 +1,603 @@
+{
+"status": "ok",
+"totalResults": 37,
+-"articles": [
+-{
+-"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Tara Copp, Dan Lamothe, Karen DeYoung",
+"title": "At least 10 U.S. troops wounded in Iranian attack on Saudi air base - The Washington Post",
+"description": "The strike on Prince Sultan Air Base also damaged at least two Air Force refueling aircraft and underscored that despite weeks of strikes, Iran still poses a threat.",
+"url": "https://www.washingtonpost.com/national-security/2026/03/27/iran-wounds-us-troops-saudi-base/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5AAYIN7WBIET3SGGX3SKOGHYM4.JPG&w=1440",
+"publishedAt": "2026-03-28T05:03:00Z",
+"content": "At least 10 U.S. troops were injured Friday, two seriously, in an Iranian attack on Prince Sultan Air Base in Saudi Arabia, according to U.S. officials familiar with the matter.\r\nThe strike on the he… [+282 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CBS Sports"
+},
+"author": "Isaac Trotter",
+"title": "UConn survives Michigan State's comeback try; Tennessee beats Iowa State, heads to Elite Eight - CBS Sports",
+"description": "The Big Ten has half of the teams in the Elite Eight which gets underway Saturday",
+"url": "https://www.cbssports.com/college-basketball/news/march-madness-2026-sweet-16-live-updates-scores-bracket-friday/live/",
+"urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/03/28/b4ad0267-2ff3-47f5-be65-e2fe34fd97b9/thumbnail/1200x675/4934fd709ca1c5aff6f70e74fa62dd38/gettyimages-2268192048-1.jpg",
+"publishedAt": "2026-03-28T04:52:19Z",
+"content": "The Big Ten will comprise half of the Elite Eight after coming up just short of setting a new record for most teams from a single league to advance out of the Sweet 16. Had Michigan State finished of… [+1400 chars]"
+},
+-{
+-"source": {
+"id": "axios",
+"name": "Axios"
+},
+"author": "Kate Santaliz",
+"title": "House passes short-term DHS funding bill - Axios",
+"description": "Speaker Mike Johnson called the Senate-passed bill a \"joke,\" noting the lack of border security funding.",
+"url": "https://www.axios.com/2026/03/28/dhs-funding-tsa-house-senate-shutdown",
+"urlToImage": "https://images.axios.com/NSB56EPF4CeFW8X4_XqOBM4FM8s=/0x247:7079x4229/1366x768/2026/03/27/1774640136550.jpeg",
+"publishedAt": "2026-03-28T04:47:42Z",
+"content": "<ul><li>The Senate's plan would fund DHS through Sept. 30, but without money for Immigration and Customs Enforcement and Customs and Border Protection.</li><li>Speaker Mike Johnson (R-La.) instead ad… [+1019 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investor's Business Daily"
+},
+"author": null,
+"title": "Stocks Dive, Oil Hits $100; What To Do Now - Investor's Business Daily",
+"description": "The major indexes are at six-month lows. Tesla deliveries loom.",
+"url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-near-100-iran-war-drags-tesla-deliveries/",
+"urlToImage": "https://www.investors.com/wp-content/uploads/2017/07/SMT0300_bear_072717_adobe.jpg",
+"publishedAt": "2026-03-28T03:49:00Z",
+"content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Dan Mangan",
+"title": "Epstein victims to get $72.5M from Bank of America settlement - cnbc.com",
+"description": "The settlement by Bank of America comes nearly three years after JPMorgan Chase and Deutsche Bank settled similar lawsuits by victims of Jeffrey Epstein.",
+"url": "https://www.cnbc.com/2026/03/27/jeffrey-epstein-bank-of-america-lawsuit-settle.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/108251237-1768235009704-gettyimages-2240459473-BOFA_EARNS.jpeg?v=1774665565&w=1920&h=1080",
+"publishedAt": "2026-03-28T03:35:00Z",
+"content": "Bank of America has agreed to pay victims of notorious sex offender Jeffrey Epstein $72.5 million to settle a class action lawsuit alleging that the bank facilitated his sex trafficking operation, a … [+3862 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Abcnews.com"
+},
+"author": "abcnews.com",
+"title": "Tiger Woods charged with DUI after rollover crash in Florida: Sheriff - abcnews.com",
+"description": null,
+"url": "https://abcnews.com/US/tiger-woods-involved-rollover-crash-florida-sheriff/story?id\\\\u003d131479825",
+"urlToImage": null,
+"publishedAt": "2026-03-28T03:00:25Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "KOMO News"
+},
+"author": "Jackie Kent, KOMO News Reporter",
+"title": "Washington diesel prices hit record high twice in a week - KOMO",
+"description": "Diesel hit its highest average price ever in Washington state twice in a week, reaching the most expensive rate Friday at $6.55 per gallon, according to AAA.Tr",
+"url": "https://komonews.com/news/local/western-washington-seattle-diesel-prices-hit-record-high-twice-in-a-week-strait-of-hormuz-gas-pump-economy",
+"urlToImage": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/9d92e92e-9f38-4dae-b807-7d7c6ca62e8c-gaspricegeneric.png",
+"publishedAt": "2026-03-28T02:42:36Z",
+"content": "SEATTLE Diesel hit its highest average price ever in Washington state twice in a week, reaching the most expensive rate Friday at $6.55 per gallon, according to AAA. \r\nTruck drivers and the businesse… [+1721 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Kyivindependent.com"
+},
+"author": "Volodymyr Ivanyshyn",
+"title": "Ukrainian drones reportedly strike oil refinery in Russian city of Yaroslavl - The Kyiv Independent",
+"description": "Ukrainian drones struck an oil refinery in the central Russian city of Yaroslavl overnight on March 28, Telegram news channel Exilenova Plus reported.",
+"url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-oil-refinery-in-russian-city-of-yaroslavl/",
+"urlToImage": "https://assets.kyivindependent.com/content/images/2026/03/Screenshot-2026-03-27-at-9_10_47-PM.png",
+"publishedAt": "2026-03-28T01:48:19Z",
+"content": "Editor's note: This is a developing story and is being updated.\r\nUkrainian drones struck an oil refinery in the central Russian city of Yaroslavl overnight on March 28, Telegram news channel Exilenov… [+2133 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Federal News Network"
+},
+"author": "Justin Doubleday",
+"title": "Trump signs order to pay TSA employees amid shutdown standoff - Federal News Network",
+"description": "The formal order to pay TSA staff came out Friday, as a Senate-passed DHS funding deal appeared poised to fall apart in the House amid GOP opposition.",
+"url": "https://federalnewsnetwork.com/government-shutdown/2026/03/trump-signs-order-to-pay-tsa-employees-amid-shutdown-standoff/",
+"urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2026/03/Travel_Delays_56189-scaled.jpg",
+"publishedAt": "2026-03-28T01:14:50Z",
+"content": "President Donald Trump on Friday directed the Department of Homeland Security to re-direct funding to pay Transportation Security Administration employees, even as other DHS staff continue to go with… [+2880 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Womansworld.com"
+},
+"author": "Cailey Griffin",
+"title": "New Cholesterol Guidelines Are Here: Doctors Share the Biggest Changes - AOL.com",
+"description": "New cholesterol guidelines for 2026 update LDL targets, screening age and Lp(a) testing. Learn what’s changed and how it can protect your heart health.",
+"url": "https://www.womansworld.com/wellness/heart-health/new-cholesterol-guidelines-are-here-see-the-biggest-changes#article",
+"urlToImage": "https://www.womansworld.com/wp-content/uploads/2026/03/cholesterol-guidelines.jpg?quality=86&strip=all",
+"publishedAt": "2026-03-28T00:38:28Z",
+"content": "Heres some exciting news for your heart: The rules around cholesterol just got simpler, smarter and more personalized with an earlier start on primary prevention. On March 13, the American College of… [+4572 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "KABC-TV"
+},
+"author": null,
+"title": "No Kings protests 2026: List of locations for Southern California rallies, including Los Angeles, Orange and Riverside counties - ABC7 Los Angeles",
+"description": "The protests are set to be held Saturday, March 28.",
+"url": "https://abc7.com/post/no-kings-protests-2026-list-locations-southern-california-rallies-including-los-angeles-orange-riverside-counties/18782383/",
+"urlToImage": "https://cdn.abcotvs.com/dip/images/18783081_no-kings-protest-clean-TN-img.jpg?w=1600",
+"publishedAt": "2026-03-28T00:29:17Z",
+"content": "LOS ANGELES (KABC) -- From Los Angeles to Ventura County, dozens of \"No Kings\" protests will be held across Southern California this weekend to demonstrate against the Trump administration.\r\nThe prot… [+5768 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "On3.com"
+},
+"author": "Mike Wilson",
+"title": "Tennessee basketball vs Iowa State game time pushed back in Sweet 16 - On3",
+"description": "Tennessee basketball and Iowa State will not start on time due to a delay in the first game between Alabama and Michigan.",
+"url": "https://www.on3.com/teams/tennessee-volunteers/news/tennessee-basketball-game-time-tv-iowa-state-sweet-16/",
+"urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/03/25152249/USATSI_28566834-1.jpeg",
+"publishedAt": "2026-03-28T00:23:16Z",
+"content": "Tennessee basketball vs Iowa State in the Sweet 16 will not start on time.\r\nThe game is expected to start at 10:25 p.m. ET (TBS/truTV), a 15-minute delay from the initial announced game time of 10:10… [+1249 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Financial Times"
+},
+"author": "Jamie Smyth, James Politi, George Steer, Abigail Hauslohner, Antoine Gara, James Fontanella-Khan",
+"title": "Global markets recoil as Marco Rubio warns war in Iran could stretch for weeks - Financial Times",
+"description": "Comments from US secretary of state come as oil jumps to $114 and Wall Street stocks slide",
+"url": "https://www.ft.com/content/4f095d4b-46cb-4ed6-90cf-aa560fba2bc1?syn-25a6b1a6\\\\u003d1",
+"urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1cc79eac-3696-42a1-91fe-85a44dfda4b4.png?source=next-barrier-page",
+"publishedAt": "2026-03-27T23:51:56Z",
+"content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+},
+-{
+-"source": {
+"id": "entertainment-weekly",
+"name": "Entertainment Weekly"
+},
+"author": "https://www.facebook.com/entertainmentweekly",
+"title": "Joseph Duggar being held in solitary confinement: 'I'm not sleeping great,' he tells wife Kendra in jailhouse call - Entertainment Weekly",
+"description": "Joseph Duggar is currently in solitary confinement in an Arkansas jail as he awaits extradition to Florida, where he is facing child molestation charges.",
+"url": "https://ew.com/joseph-duggar-being-held-in-solitary-confinement-in-arkansas-jail-11936430",
+"urlToImage": "https://ew.com/thmb/ouL6vps6mVlU9SBkvPyeb0N_Evg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/joseph-duggar-kenddra-duggar-032326-6b3bf2555c7e44d6bdd6c9a5ecb701e8.jpg",
+"publishedAt": "2026-03-27T23:48:08Z",
+"content": "Joseph Duggar must be counting the minutes in jail.\r\nEntertainment Weekly has confirmed the 31-year-old former reality star is being held in solitary confinement at the Washington County Detention Ce… [+2689 chars]"
+},
+-{
+-"source": {
+"id": "cbs-news",
+"name": "CBS News"
+},
+"author": "Eleanor  Watson, Jennifer  Jacobs, James  LaPorta",
+"title": "U.S. Tomahawks are being used in Iran war faster than stockpile is being refilled - CBS News",
+"description": "The U.S. has used close to 1,000 Tomahawk missiles since June 2025​ and has been procuring them at a rate of about 90 per year.",
+"url": "https://www.cbsnews.com/news/u-s-tomahawks-iran-war-faster-than-stockpile-refilled/",
+"urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/27/65736de3-0d81-4d1f-a058-18051d870eaa/thumbnail/1200x630g2/8683146791bd2f231f7852520568eb46/gettyimages-2263711844.jpg",
+"publishedAt": "2026-03-27T23:38:41Z",
+"content": "Washington — The U.S. has so far used hundreds of Tomahawk cruise missiles against Iran, according to two sources familiar with the matter, several times more than the number procured for the militar… [+5580 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Michele Luhn",
+"title": "TSA wait times: Track security lines by airport in the U.S. - CNBC",
+"description": "Travelers are facing long lines at airports across the U.S. as a partial government shutdown drags on.",
+"url": "https://www.cnbc.com/guide/tsa-wait-times/",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/108284315-1774640103817-gettyimages-2268112629-1548161-me-tsa-vote-04-mjc.jpeg?v=1774651020&w=1920&h=1080",
+"publishedAt": "2026-03-27T23:34:19Z",
+"content": "TSA PreCheck vs. regular security lines\r\nTSA PreCheck is a program that allows its 20 million pre-screened members to pass through airport security faster than at standard lanes. \r\nDuring normal secu… [+890 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Live Science"
+},
+"author": "Kenna Hughes-Castleberry",
+"title": "Mystery medical episode that left NASA astronaut unable to speak highlights major space risk - Live Science",
+"description": "Veteran astronaut Michael Fincke's sudden medical emergency aboard the ISS is a stark reminder that, as NASA pushes toward long-term lunar missions, astronaut health remains one of spaceflight's biggest unknowns.",
+"url": "https://www.livescience.com/space/space-exploration/mystery-medical-episode-that-left-astronaut-unable-to-speak-shows-one-of-nasas-biggest-risks-as-moon-missions-ramp-up",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/TecSR9sScQa5g46TDyZ2on-1920-80.jpg",
+"publishedAt": "2026-03-27T21:45:22Z",
+"content": null
+}
+]
+}
+Top headlines from BBC News
+Definition
+GET https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=5db0de25aadf4d6a913f8edbbdac6969
+Example response
+{
+"status": "ok",
+"totalResults": 10,
+-"articles": [
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Ballymena: Cigarette butts and filters used to insulate attic",
+"description": "The last thing you'd expect to find in an attic is cigarette butts and filters, but that's exactly what was uncovered in a County Antrim house.",
+"url": "https://www.bbc.co.uk/news/articles/c070eep3k0jo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59ff/live/ea046d80-2448-11f1-8350-0b57c2d91bf3.jpg",
+"publishedAt": "2026-03-28T09:37:25.3037977Z",
+"content": "Insulation is an extra layer of material that is designed to reduce heat loss through a property's roof.\r\nCommon insulation materials include fibreglass, non-combustible mineral wool, foam boards and… [+1198 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "The Pitt's Noah Wyle on why A&E is the 'catch-all of society's bad choices'",
+"description": "The former ER star is back playing a physician with PTSD in a new US medical drama.",
+"url": "https://www.bbc.co.uk/news/articles/czjw37ne208o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9298/live/70dba610-2a1c-11f1-b445-970559cc3350.jpg",
+"publishedAt": "2026-03-28T08:22:26.742936Z",
+"content": "The idea for the show was sparked by the global pandemic.\r\n\"It was during Covid, which was a tricky time for everybody, but first responders in particular were being hit extremely hard,\" Wyle explain… [+1799 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Biscoff creme eggs, Tiramisu hot cross buns: Have Easter treats gone too far?",
+"description": "With the cost of living rising, shoppers give us their thoughts about the new versions of the Easter classics.",
+"url": "https://www.bbc.co.uk/news/articles/clyenwrz23go",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea7c/live/7b0e7d60-2a30-11f1-a79a-77e93010d956.jpg",
+"publishedAt": "2026-03-28T08:22:23.0875986Z",
+"content": "Another Easter treat, mini eggs, have also been expanding into different flavours in recent years. In 2024 Cadbury's released orange mini eggs, rivalling Terry's chocolate orange versions which first… [+1516 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Teenagers say weekend and Saturday jobs are 'impossible' to find",
+"description": "Youth unemployment and minimum wage increases are causing teens to be squeezed out of job market.",
+"url": "https://www.bbc.co.uk/news/articles/cwywxlvelevo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c65/live/89daab50-2393-11f1-b790-6d42cdb7b9c3.png",
+"publishedAt": "2026-03-28T08:07:21.7914054Z",
+"content": "However, one business owner told the BBC he believed it was important to hire young people.\r\nThe South Downs Social cafe in Winchester, which has been running for five years, has employed many teenag… [+1204 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "How Trump and the oil markets move in sync: A tango in six charts",
+"description": "Oil markets have been sensitive to Donald Trump's comments on the war. But are traders growing less responsive?",
+"url": "https://www.bbc.co.uk/news/articles/cvgk8zk9epgo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afff/live/0ed104c0-29fd-11f1-99ef-b5dfea7d5974.jpg",
+"publishedAt": "2026-03-28T06:22:23.4349473Z",
+"content": "Jonathan Raymond, investment manager at Quilter Cheviot, says energy prices have become a proxy for wider geopolitical and economic risks, spiking when Trump's language grows aggressive and easing wh… [+801 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "'He would have been horrified' - error in drug warnings 'misled' families",
+"description": "Warnings for dopamine agonist drugs are to be reviewed after BBC identified an error in patient leaflets.",
+"url": "https://www.bbc.co.uk/news/articles/ckg0xxwn041o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd50/live/22a171c0-2934-11f1-a79a-77e93010d956.png",
+"publishedAt": "2026-03-28T06:22:20.7012564Z",
+"content": "Warnings about common medications that can cause impulsive behaviours, such as sex and gambling addictions, are being officially reviewed after BBC News identified an error in drug leaflets.\r\nSide ef… [+2117 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Newspaper headlines: 'War to end in weeks' and '50% of public cut their spending'",
+"description": "The US saying the Middle East war will \"end in weeks\" and pressure on UK household budgets lead Saturday's papers.",
+"url": "https://www.bbc.co.uk/news/articles/c79jd9d0n4zo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/657c/live/38856470-2a37-11f1-a79a-77e93010d956.jpg",
+"publishedAt": "2026-03-28T01:52:20.4105018Z",
+"content": "Image caption, Many of Saturday's papers lead with the Middle East conflict one month since Israel and the US attacked. The Guardian leads with their latest plans for the conflict. US Secretary of St… [+440 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Iran war divides older and younger Trump voters at CPAC",
+"description": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+"url": "https://www.bbc.co.uk/news/articles/cjd8e4px12ro",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4621/live/c66ed310-2a2e-11f1-a79a-77e93010d956.png",
+"publishedAt": "2026-03-28T01:37:21.1124723Z",
+"content": "The members of the \"Trump Tribe of Texas\" wearing matching gold sequined jackets and necklaces spelling out the president's name were an older crowd. Its founder, Michael Manuel-Reaud, was attending … [+2742 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Model agent begged Epstein to have sex with young woman, emails show",
+"description": "Ramsey Elkholy introduced the financier to women as young as 18 in correspondence over almost a decade.",
+"url": "https://www.bbc.co.uk/news/articles/cm2kn7nj00ro",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b0f/live/7ed754c0-29fa-11f1-934f-036468834728.jpg",
+"publishedAt": "2026-03-28T01:07:19.7885866Z",
+"content": "For one modelling contest idea, he said, \"200,000 girls\" would participate across dozens of cities over a period of nine months.\r\nHe said he liked this idea for Epstein because the winner was usually… [+1307 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC Sport",
+"title": "Tiger Woods car crash: Golfer involved in Florida collision",
+"description": "Golf star Tiger Woods has been involved in a car crash in Florida, police confirm.",
+"url": "https://www.bbc.co.uk/sport/golf/articles/cvg092kege7o",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f8f/live/fa2b27f0-2a18-11f1-8026-47f64b0c069a.jpg",
+"publishedAt": "2026-03-27T20:52:33.9600946Z",
+"content": "Golf star Tiger Woods has been involved in a car crash in Florida, police have confirmed.\r\nThe Martin County Sheriff's Office is actively investigating the collision on Jupiter Island, which took pla… [+1256 chars]"
+}
+]
+}
+Top business headlines from Germany
+Definition
+GET https://newsapi.org/v2/top-headlines?country=de&category=business&apiKey=5db0de25aadf4d6a913f8edbbdac6969
+Example response
+{
+"status": "ok",
+"totalResults": 0,
+"articles": [ ]
+}
+Top headlines about Trump
+Definition
+GET https://newsapi.org/v2/top-headlines?q=trump&apiKey=5db0de25aadf4d6a913f8edbbdac6969
+Example response
+{
+"status": "ok",
+"totalResults": 88,
+-"articles": [
+-{
+-"source": {
+"id": "fox-news",
+"name": "Fox News"
+},
+"author": null,
+"title": "'No Kings' calls itself leaderless but its own internal documents tell a very different story",
+"description": "No Kings organizer Sarah Parker says over 3,500 events are planned nationwide Saturday, calling it a people-powered movement opposing Trump's second term.",
+"url": "https://www.foxnews.com/politics/no-kings-calls-itself-leaderless-its-own-internal-documents-tell-very-different-story",
+"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/no-kings-organizer.jpg",
+"publishedAt": "2026-03-28T09:37:27.4438878Z",
+"content": "\"No Kings,\" a decentralized protest movement that crystallized in opposition to President Donald Trump's second term, will hold thousands of events on Saturday morning, according to Sarah Parker, an … [+3935 chars]"
+},
+-{
+-"source": {
+"id": "fox-news",
+"name": "Fox News"
+},
+"author": null,
+"title": "WATCH: Travelers reveal who they blame for miles-long Houston airport lines as Trump rescues TSA pay",
+"description": "Neither party escaped travelers’ ire wait times at Houston’s George Bush Intercontinental Airport dragged on several hours and lines stretched for miles.",
+"url": "https://www.foxnews.com/politics/watch-travelers-reveal-who-blame-miles-long-houston-airport-lines-trump-rescues-tsa-pay",
+"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/traveler-on-massive-lines.png",
+"publishedAt": "2026-03-28T09:37:20.6955732Z",
+"content": "Neither party escaped travelers ire as some estimated they had to walk miles to reach the back of the security line and wait several hours to catch their flights at Houstons George Bush Intercontinen… [+4371 chars]"
+},
+-{
+-"source": {
+"id": "bild",
+"name": "Bild"
+},
+"author": "Moritz J. Müller",
+"title": "Merz kontert Kritik von Trump: „Wenn du willst, dass wir helfen, dann frag uns bitte vorher“ | Politik",
+"description": "Immer drastischer attackiert Bundeskanzler Friedrich Merz seinen Verbündeten im Weißen Haus, US-Präsident Donald Trump.",
+"url": "https://www.bild.de/politik/inland/kanzler-keilt-gegen-washington-merz-wirft-trump-massive-eskalation-vor-69c6eaa1b88efea973b40732",
+"urlToImage": "https://images.bild.de/69c6eaa1b88efea973b40732/a33f7c603fa069e924e8f25e1659609e,80655d95?w=1280",
+"publishedAt": "2026-03-28T09:30:37Z",
+"content": "TTS-Player überspringenArtikel weiterlesenFrankfurt am Main Immer deutlicher attackiert Bundeskanzler Friedrich Merz (70) seinen Verbündeten im Weißen Haus, US-Präsident Donald Trump (79). Beim F.A.Z… [+2435 chars]"
+},
+-{
+-"source": {
+"id": "der-tagesspiegel",
+"name": "Der Tagesspiegel"
+},
+"author": "Christopher Stolz",
+"title": "„Ich werde Ufo-Akten auf den Grund gehen“: US-Vizepräsident Vance hält Aliens für „Dämonen“",
+"description": "JD Vance hat sich in einem Podcast zur Ankündigung von US-Präsident Trump geäußert, Akten der Regierung zu Außerirdischen veröffentlichen zu wollen. Er zeigt sich „besessen“ vom Thema Ufos.",
+"url": "https://www.tagesspiegel.de/internationales/ich-werde-ufo-akten-auf-den-grund-gehen-us-vizeprasident-vance-halt-aliens-fur-damonen-15409721.html",
+"urlToImage": "https://www.tagesspiegel.de/images/15409727/alternates/BASE_16_9_W1400/1774688454000/us-politics-jd-vance-task-force.jpeg",
+"publishedAt": "2026-03-28T09:10:08+00:00",
+"content": "US-Vizepräsident JD Vance ist nach eigenem Bekunden besessen vom Thema Ufos und hält Aliens für Dämonen. Vance äußerte sich am Freitag beim konservativen Podcaster Benny Johnson zur Ankündigung von U… [+1494 chars]"
+},
+-{
+-"source": {
+"id": "il-sole-24-ore",
+"name": "Il Sole 24 Ore"
+},
+"author": null,
+"title": "L’America in piazza contro Trump, oggi 3.100 manifestazioni “No Kings”",
+"description": "Sono 3.100 le manifestazione ’No Kings’ in programma nella giornata di oggi negli Stati Uniti. Gli organizzatori prevedono un’affluenza record per ...",
+"url": "https://www.ilsole24ore.com/art/l-america-piazza-contro-trump-oggi-3100-manifestazioni-no-kings-AIrP9BDC",
+"urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2026/03/29/Immagini/Ritagli/LP_24271101-U68576575257Yyb-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+"publishedAt": "2026-03-28T08:34:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "reddit-r-all",
+"name": "Reddit /r/all"
+},
+"author": null,
+"title": "President Trump perfectly describes his administration: I hang out with losers because it makes me feel better. I hate guys that are very, very successful and you have to listen to their success stories. I like people that like to listen to my success.",
+"description": null,
+"url": "https://v.redd.it/aid5o0jqporg1",
+"urlToImage": null,
+"publishedAt": "2026-03-28T08:22:32.9913729Z",
+"content": "Anyone can view, post, and comment to this community"
+},
+-{
+-"source": {
+"id": "il-sole-24-ore",
+"name": "Il Sole 24 Ore"
+},
+"author": null,
+"title": "Missile Iran su base Usa in Arabia Saudita: 12 feriti. Esplosioni a Damasco",
+"description": "Rubio ha dichiarato che la guerra in Iran finirà in settimane, non in mesi. Trump ha di nuovo minacciato la Nato: «Siamo sempre stati al fianco della Nato, forse non più tenuti a farlo». Un morto e diversi feriti in lancio missili balistici nel centro di Isra…",
+"url": "https://www.ilsole24ore.com/art/missile-iran-base-usa-arabia-saudita-12-feriti-esplosioni-damasco-AIAtX7CC",
+"urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2026/03/29/Immagini/Ritagli/2026-03-27T115954Z_1676032620_RC2XCKAYON8A_RTRMADP_5_IRAN-CRISIS-U71222644538Aww-1440x752@IlSole24Ore-Web.JPG?r=1170x507",
+"publishedAt": "2026-03-28T07:05:23Z",
+"content": "LUcraina è vicina a concludere diversi accordi di sicurezza, in particolare con Emirati Arabi Uniti e Qatar, per rafforzare la difesa contro minacce come gli attacchi iraniani, e guarda anche a un po… [+1950 chars]"
+},
+-{
+-"source": {
+"id": "rte",
+"name": "RTE"
+},
+"author": "Jackie Fox",
+"title": "MAGA backs Trump on Iran, but how strong is support?",
+"description": "Poll after poll has shown that a large majority of MAGA Republicans support the US strikes on Iran, writes Jackie Fox.",
+"url": "https://www.rte.ie/news/analysis-and-comment/2026/0328/1565551-maga-support-trump/",
+"urlToImage": "https://www.rte.ie/images/002420f5-1600.jpg",
+"publishedAt": "2026-03-28T07:00:00Z",
+"content": "Move over John King, there's new screen royalty in town.\r\nCNN's Harry Enten has taken the airwaves by storm with his vivacious, numbers-driven analysis turning him into a viral sensation.\r\nThe data g… [+9771 chars]"
+},
+-{
+-"source": {
+"id": "les-echos",
+"name": "Les Echos"
+},
+"author": null,
+"title": "DIRECT - Guerre en Iran : Trump, frappes sur Téhéran et le Liban... Suivez les principales infos de ce samedi 28 mars",
+"description": "Le président américain a franchi un nouveau cap dans ses critiques contre l'Alliance atlantique.",
+"url": "https://www.lesechos.fr/monde/afrique-moyen-orient/direct-guerre-en-iran-trump-frappes-sur-teheran-et-le-liban-suivez-les-principales-infos-de-ce-samedi-28-mars-2223531",
+"urlToImage": "https://media.lesechos.com/api/v1/images/view/69c77bd3a3c80ba3730273d2/1280x720/01801869240179-web-tete.jpg",
+"publishedAt": "2026-03-28T06:57:20Z",
+"content": "La guerre se poursuit et ne montre pas de signe d'accalmie. Sur le terrain diplomatique, Donald Trump a renouvelé ses attaques contre l'Otan et a affirmé que les Etats-Unis pourraient ne pas venir en… [+3075 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "How Trump and the oil markets move in sync: A tango in six charts",
+"description": "Oil markets have been sensitive to Donald Trump's comments on the war. But are traders growing less responsive?",
+"url": "https://www.bbc.co.uk/news/articles/cvgk8zk9epgo",
+"urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afff/live/0ed104c0-29fd-11f1-99ef-b5dfea7d5974.jpg",
+"publishedAt": "2026-03-28T06:22:23.4349473Z",
+"content": "Jonathan Raymond, investment manager at Quilter Cheviot, says energy prices have become a proxy for wider geopolitical and economic risks, spiking when Trump's language grows aggressive and easing wh… [+801 chars]"
+},
+-{
+-"source": {
+"id": "la-repubblica",
+"name": "La Repubblica"
+},
+"author": "La Repubblica",
+"title": "Come il movimento Maga sta costringendo Donald Trump a un nuovo cambio di rotta",
+"description": "Secondo il quotidiano tedesco Welt, i cambi di rotta del presidente americano sul Medio Oriente vanno cercate più negli equilibri interni agli Stati Uniti che …",
+"url": "https://www.repubblica.it/esteri/dossier/lena/2026/03/28/news/maga_costringe_trump_cambio_rotta_guerra_iran-425247932/",
+"urlToImage": "https://www.repstatic.it/content/nazionale/img/2026/03/26/175220240-a0a47543-bcda-44d6-b6b0-066f9574592c.jpg",
+"publishedAt": "2026-03-28T04:00:00Z",
+"content": "Secondo il quotidiano tedesco Welt, i cambi di rotta del presidente americano sul Medio Oriente vanno cercate più negli equilibri interni agli Stati Uniti che nella regione\r\nL'ascolto è riservato agl… [+17 chars]"
+},
+-{
+-"source": {
+"id": "the-huffington-post",
+"name": "The Huffington Post"
+},
+"author": null,
+"title": "Trump White House, MTG Exchange Explosive Jabs On Iran War",
+"description": "The former Georgia congresswoman has become a vocal critic of the Trump administration after breaking with the president on several issues.",
+"url": "https://www.huffpost.com/entry/trump-white-house-marjorie-taylor-greene_n_69c71bb0e4b09f8e0051c86e",
+"urlToImage": "https://img.huffingtonpost.com/asset/69c73761240000e679309fea.jpeg?ops=1200_630",
+"publishedAt": "2026-03-28T02:47:52Z",
+"content": "Former Rep. Marjorie Taylor Greene (R-Ga.) and the Trump White House engaged in a fiery back-and-forth on Friday, just a day after President Donald Trump joked about his feud with Greene during Thurs… [+2144 chars]"
+},
+-{
+-"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Michael Birnbaum",
+"title": "Trump ratchets up attacks on NATO, says U.S. no longer needs alliance",
+"description": "President Donald Trump suggested the U.S. might move away from its commitment to defend NATO allies, criticizing them for not supporting the war in Iran.",
+"url": "https://www.washingtonpost.com/politics/2026/03/27/trump-nato-iran-war/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQHHKGIEWRDMXCBCIAUUSWGOUA_size-normalized.jpg&w=1440",
+"publishedAt": "2026-03-28T02:29:14Z",
+"content": "MIAMI BEACH The United States may stop promising to defend its NATO allies should they come under attack, President Donald Trump said Friday, escalating his verbal barrage against the alliance as his… [+99 chars]"
+},
+-{
+-"source": {
+"id": "fox-news",
+"name": "Fox News"
+},
+"author": null,
+"title": "Carville doubles down on theory Trump will 'walk away' from office after midterms, get pardon from JD Vance",
+"description": "Carville doubled down on his theory that Trump will resign after the midterms, suggesting Trump will seek a pardon from JD Vance to avoid potential prosecutions after leaving office.",
+"url": "https://www.foxnews.com/media/carville-doubles-down-theory-trump-walk-away-from-office-after-midterms-get-pardon-from-jd-vance",
+"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/carville-trump.jpg",
+"publishedAt": "2026-03-28T02:22:16.7904308Z",
+"content": "Veteran Democratic strategist James Carville doubled down on his theory that President Trump will resign in frustration after losing in the midterms. \r\nEarlier this month, Carville released a video, … [+2729 chars]"
+},
+-{
+-"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Sari Cohen",
+"title": "Jane Fonda Warns of ‘Authoritarian Takeover’ in Kennedy Center Protest | CNN Politics",
+"description": "After leading a rally outside the Kennedy Center, Jane Fonda explains to CNN’s Kaitlan Collins why she believes Americans’ First Amendment rights are at risk under Trump, warning “we have to use our rights while we can.”",
+"url": "https://www.cnn.com/2026/03/27/politics/video/jane-fonda-warns-of-authoritarian-takeover-kennedy-center-protest",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/kc-fonda-20260328020859016.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2026-03-28T02:20:32.07Z",
+"content": "After leading a rally outside the Kennedy Center, Jane Fonda explains to CNN's Kaitlan Collins why she believes Americans' First Amendment rights are at risk under Trump, warning \"we have to use our … [+20 chars]"
+},
+-{
+-"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Marianne LeVine, Douglas MacMillan, Brianna Sacks",
+"title": "Internal memos hint at Mullin’s first changes as DHS secretary",
+"description": "The Trump loyalist is rescinding Kristi Noem’s contested spending policy and slowing down the contract process for turning warehouses into detention centers.",
+"url": "https://www.washingtonpost.com/immigration/2026/03/27/internal-memos-hint-mullins-first-changes-dhs-secretary/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K33VPAUZNIY5HV623GHLIZYBQY_size-normalized.jpg&w=1440",
+"publishedAt": "2026-03-28T01:57:24Z",
+"content": "The Department of Homeland Security is moving to rescind a rule that required Cabinet-level approval for contracts exceeding $100,000, according to internal documents, shifting away from one of Krist… [+34 chars]"
+}
+]
+}
+Error example
+Definition
+GET https://newsapi.org/v2/top-headlines
+Example response
+{
+"status": "error",
+"code": "apiKeyMissing",
+"message": "Your API key is missing. Append this to the URL with the apiKey param, or use the x-api-key HTTP header."
+}
